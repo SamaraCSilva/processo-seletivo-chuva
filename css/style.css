@@ -1,0 +1,370 @@
+h2 {
+    background-color: #ED7839;
+    text-align: center;
+    color: #fff;
+    font-family:sans-serif;
+    margin: 0; 
+    height: 76px;
+    font-size: 28px;
+}
+#menu{
+    width: 230px;
+    font-family:Open Sans,sans-serif;
+    line-height: 2.5;
+    font-size: 15px;
+    border-right: 2px solid rgba(216, 214, 214, 0.466);
+    box-shadow:rgba(0, 0, 0, 0.041) 3px 2px 1px;
+    position: fixed;
+}
+hr{
+    margin: auto;
+    border: 0;
+    border-bottom: 1px solid rgba(216, 214, 214, 0.884);
+}
+ul{
+    line-height: 2.5;
+    padding:0px; 
+}
+h1{
+    font-family:Open Sans,sans-serif;
+    color: #5c5c5c;
+    font-size: 20px;
+    font-weight:normal;
+}
+span{
+    font-family: sans-serif; 
+    color: #5c5c5c;
+    font-size: 12px;
+}
+#cabecalho {
+    background-color:#fdf1eb; 
+    width: 77%;
+    margin-left: 235px;
+    position: absolute; 
+    top: 0px;
+    line-height:0.6;
+    height: 75px;
+    text-anchor: initial;
+    padding: 1px 38px;
+}
+body{
+    margin: 0;
+}
+.subtitulo{
+    color:#ED7839;
+    background-color:transparent;
+    font-size:19px;
+    text-align: justify;
+    padding: 0px 40px;
+    margin-left: 19%;
+    position: absolute; 
+    top: 100px;
+}
+.imagemvideo{
+    left: 300px;
+    top: 160px;
+    position: absolute; 
+}
+.resumo {
+    padding: 10px 0px 0px 30px;
+    background-color: #fdf1eb;
+    height: 30px;
+    color:#5c5c5c;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-left: -15px;
+    margin-right: -15px;
+    border-bottom: 1px solid rgba(216, 214, 214, 0.884);
+}
+p{
+    padding: 10px 15px;
+    margin: 0;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#5c5c5c;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: normal;
+
+
+} 
+#res{
+    padding: 10px 15px;
+    margin-right: 5%;
+    border: 1px solid rgba(216, 214, 214, 0.884);
+    border-radius: 3px;
+    margin-top: 582px;
+    top: 10px;
+    left: 300px;
+    position: absolute;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #633636dc;
+    font-weight: 100px;
+}
+
+button{
+    background:transparent;
+    border: 1px solid rgba(0, 0, 0, 0.116);
+    padding: 5px 25px;
+    border-radius: 3px;
+    left: 86%;
+    top: 22px;
+    position: absolute;
+}
+
+#detalhes {
+    width: 18%;
+    left: 1038px;
+    top: 160px;
+    padding: 0;
+    border: 1px solid rgba(216, 214, 214, 0.884);
+    border-radius: 3px;
+    height: 394px;
+    position: absolute;
+}
+
+.detalhe {
+    background-color: #fdf1eb;
+    height: 30px;
+    color:#5c5c5c;
+    text-align: left;
+    font-size: 18px;
+    max-height: 25px;
+    border-bottom: 1px solid rgba(216, 214, 214, 0.884);
+    padding: 10px 0px 0px 30px;
+}
+
+.p-detalhe p{
+    font-size: 12px;
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: normal;
+    padding: 10px 0px 0px 30px;
+}
+
+.detals {
+    font-size: 11.4px;
+    font-family: sans-serif;
+    margin-left: 5px;
+    text-align: initial;
+    color: rgba(119, 136, 153, 0.562);
+    padding: 10px 0px 0px 20px;
+}
+
+.login{
+    left: 95%;
+    top:0px;
+    font-family: sans-serif;
+    color: #ED7839;
+    position: absolute;
+}
+.log{
+    list-style: none;
+}
+
+#mais{
+    display:none;
+}
+
+#download{
+    background:#ED7839;
+    border-radius: 5px;
+    left: 1090px;
+    top: 100px;
+    position: absolute;
+    color: #fff;
+    font-weight: normal;
+    height: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    width: 100px;
+    border: none;   
+    text-align: right;
+}
+
+.down {
+    position: absolute;
+    left: 8%;
+}
+
+#favorito{
+    background-color:#ED7839;
+    width: 40px;
+    position: absolute;
+    top: 100px;
+    left: 1197px;
+    height: 32px;
+    border: none;
+    border-radius: 5px;
+    padding: 2px 8px;
+}
+
+.fav{
+    top:5px;
+    left: 26%;
+    position: absolute;
+}
+
+#doi{
+    background-color:#ED7839;
+    width: 40px;
+    position: absolute;
+    top: 100px;
+    left: 1242px;
+    height: 32px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 2px 8px;
+}
+
+.citar{
+    background-color: transparent;
+    color: #ED7839;
+    position: absolute;
+    font-size: 12px;
+    left: 1090px;
+    top: 140px;
+}
+
+.glob{
+    top:5px;
+    left: 10%;
+    position: absolute;
+}
+
+#discussao{
+    padding: 10px 15px;
+    border: 1px solid rgba(216, 214, 214, 0.884);
+    border-bottom: none;
+    border-radius: 3px;
+    margin-top: 582px;
+    top: 570px;
+    left: 300px;
+    position: absolute;
+    width: 950px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.discussoes{
+    padding: 10px 0px 0px 30px;
+    background-color: #fdf1eb;
+    height: 30px;
+    color:#5c5c5c;
+    text-align: justify;
+    font-size: 18px;
+    margin-top: -10px;
+    margin-left: -15px;
+    margin-right: -15px;
+    border-bottom: 1px solid rgba(216, 214, 214, 0.884);
+}
+
+.topic{
+    background-color: transparent;
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #ED7839;
+    font-weight: bold;
+    margin-top: 10px;
+    height: 100px;
+}
+
+.imagem-topic{
+    margin-left: 380px;
+    position: absolute;
+    top: 100px;
+}
+
+.imagem-2{
+    margin: 0px 30px 0px 30px;
+}
+
+.p-topic{
+    text-align: center;
+    font-size: 13px;
+    color: #696867;
+    font-weight: normal;
+    border-bottom: 1px solid rgba(216, 214, 214, 0.884);
+    margin-bottom: 20px;
+}    
+
+#botaoTopico{
+    top: 200px;
+    left: 400px;
+    position: absolute;
+    color: #fff;
+    background-color: #ED7839;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+#conteudo{ 
+    width: 800px; 
+    height: 150px; 
+    resize: none;
+    bottom: 500px;
+    border: 1px solid rgba(216, 214, 214, 0.884);
+    color: #ED7839;
+    width: 945px; 
+}    
+
+#assunto{
+    width: 945px; 
+    height: 30px;
+    color: #ED7839;
+    border: 1px solid rgba(216, 214, 214, 0.884);
+}
+
+.button-topic{
+    background: #ED7839;
+    top: 440px;
+    left: 815px;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    color:#fff;
+}
+
+label{
+    color: #ED7839;
+    padding: 0 0 20px 0;
+}
+
+input{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+#mais{
+    display: flex;
+}
+
+#logo-galoa{
+    position: absolute;
+    padding-top: 30px;
+}
+
+#saibaMais{
+    position: absolute;
+    margin-top: 570px;
+    left: 10px;
+    width: 200px;
+    background-color: #914bc4;
+    color: #fff;
+}
+
+footer{
+    position: absolute;
+    font-weight: normal;
+    font-size: 13px;
+    left: 230px;
+    top: 520px;
+    color:#5c5c5c;
+}
